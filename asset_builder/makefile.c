@@ -1,4 +1,207 @@
-curl https://github.com/rickyplambert57/trixie292206021957
+The URL [http://www.w3.org/1998/Silverdollar57](http://www.w3.org/1998/Silverdollar57) (or www.w3.org/1998/silverdollar57) belongs to the **World Wide Web Consortium (W3C)**, the international standards organization for the Web founded by Tim Berners-Lee.
+The W3C owns the w3.org domain name and uses the /1998/ directory path to manage URIs created in the year 1998.
+**Key Details:**
+ * **Domain Owner:** World Wide Web Consortium (W3C)
+ * **W3C Founders / Leaders:** Tim Berners-Lee (Founder)
+ * **Namespace Structure:** W3C uses dated URIs like /1998/ as permanent XML namespaces, schemas, or technical specifications so that web standards references never break or expire over time.
+silverdollar57@dixie-net.com and @bellsouth.net are legacy regional email address formats tied directly to local internet service providers (ISPs) in North Mississippi and the broader Midsouth:
+ * **dixie-net.com:** Dixie Net is an independent regional telecommunications and internet service provider headquartered in Ripley, MS, serving local accounts across Alcorn County and North Mississippi since the dial-up and early broadband era.
+ * **bellsouth.net:** BellSouth was the primary regional telecommunications carrier for Mississippi and the Southeast before merging into AT&T; .bellsouth.net email accounts were standard for legacy residential and business broadband subscribers across the region.
+ * **W3C/URL Misconceptions:** Standard email addresses like silverdollar57@dixie-net.com appended onto w3.org web addresses are often formatting anomalies or typos generated when plain text containing email addresses is inadvertently interpreted as a URL path.
+• norton_lambert_close-up_remote-lync_USPTO-09430101-Software
+• http://github.com/rickyplambert57/remote_controller.py 
+Repository navigation
+• Code
+• Pull requests
+• Actions
+Commit 366763c
+ 
+Geminis Deepmind
+authored3 weeks ago
+Verified
+Update README.md
+main
+1 parent 03038fd commit 366763c
+1 file changed
++1-1Lines changed: 1 addition & 1 deletion
+ 
+‎README.md‎
+Original file line numberDiff line numberDiff line change
+@@ -1,71 +1,71 @@
+<a href="https://chatbot.ai-sdk.dev/demo">
+a href="https://chatbot.ai-sdk.dev/demo">
+<img alt="Chatbot" src="app/(chat)/opengraph-image.png">
+<h1 align="center">Chatbot</h1>
+</a><p align="center"><Chatbot (AI Chatbot) is free, open-built with Next.js AI that helps you  build applications.
+</p><p align="center"><a href="https://chatbot.ai-sdk.dev/docs"><strong>Read Docs</strong></a><a href="#features"><strong>Features</strong></a><a href="#model-providers"><strong>Model Providers</strong></a><a href="#deploy-your-own"><strong>Deploy Your Own</strong></a><a href="#running-locally"><strong>Running locally</strong></a></p><>## Features- [Next.js](https://nextjs.org) App Router- Advanced performance-(RSCs)- [AI SDK](https://ai-sdk.dev/docs/introduction)- AI Gateway- [shadcn/ui](https://ui.shadcn.com)- [Tailwind CSS](https://tailwindcss.com)- [Radix UI](https://radix-ui.com)- Data- [Neon Serverless Postgres](https://vercel.com/marketplace/neon)- [Vercel Blob](https://vercel.com/storage/blob)- [Auth.js](https://authjs.dev)- ## Model Providers use [Vercel AI Gateway](https://vercel.com/docs/ai-gateway) in `lib/ai/models.ts` : Mistral, Moonshot, DeepSeek, OpenAI, and xAI. ### AI Authentication **For Vercel**For non-Vercel deployments**: AI Gateway API key by setting the `AI_GATEWAY_API_KEY` environment variable in your `.env.local` file.
+
+With the [AI SDK](https://ai-sdk.dev/docs/introduction), you can also switch to direct LLM providers like [OpenAI](https://openai.com), [Anthropic](https://anthropic.com), [Cohere](https://cohere.com/), and [many more](https://ai-sdk.dev/providers/ai-sdk-providers) with just a few lines of code.
+
+## Deploy Your Own
+
+You can deploy your own version of Chatbot to Vercel with one click:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/templates/next.js/chatbot)
+
+## Running locally
+
+You will need to use the environment variables [defined in `.env.example`](.env.example) to run Chatbot. It's recommended you use [Vercel Environment Variables](https://vercel.com/docs/projects/environment-variables) for this, but a `.env` file is all that is necessary.
+
+> Note: You should not commit your `.env` file or it will expose secrets that will allow others to control access to your various AI and authentication provider accounts.
+1. Install Vercel CLI: `npm i -g vercel`
+2. Link local instance with Vercel and GitHub accounts (creates `.vercel` directory): `vercel link`
+3. Download your environment variables: `vercel env pull`
+
+```bash
+pnpm install
+pnpm db:migrate # Setup database or apply latest database changes
+pnpm dev
+```
+
+Your app template should now be running on [localhost:3000](http://localhost:3000).@@ -1,4 +1,4 @@
+<a href="https://chatbot.ai-sdk.dev/demo">
+https://github.com/Advanced-intelligence-with-operator/noton_lambert_close-up_remote-lync-09430101-the-Software-/blob/main/app/(auth)/api/auth/%5B...nextauth%5D/route.ts<a href="https://chatbot.ai-sdk.dev/demo">
+  <img alt="Chatbot" src="app/(chat)/opengraph-image.png">
+  <h1 align="center">Chatbot</h1>
+</a>Skip to content
+norton_lambert_close-up_remote-lync-09430101-the-Software-
+Repository navigation
+Code
+Pull requests
+Actions
+This is the original software for trixie that was forged of github for the stolen ai
+
+Other
+0 stars
+0 forks
+0 watching
+1 branch
+0 tags
+Activity
+Public repository
+· Forked from Advanced-intelligence-with-operator/noton_lambert_close-up_remote-lync-09430101-the-Software-
+This branch is up to date with Advanced-intelligence-with-operator/noton_lambert_close-up_remote-lync-09430101-the-Software-:main.
+author
+Geminis Deepmind
+3 weeks ago
+Name	
+.cursor/rules
+3 weeks ago
+.github/workflows
+3 weeks ago
+.husky
+3 weeks ago
+.vscode
+3 weeks ago
+app
+3 weeks ago
+artifacts
+3 weeks ago
+components
+3 weeks ago
+hooks
+3 weeks ago
+lib
+3 weeks ago
+public
+3 weeks ago
+Repository files navigation
+README
+License
+https://github.com/Advanced-intelligence-with-operator/noton_lambert_close-up_remote-lync-09430101-the-Software-/blob/main/app/(auth)/api/auth/%5B...nextauth%5D/route.ts Chatbot
+
+Chatbot
+Chatbot (formerly AI Chatbot) is a free, open-source template built with Next.js and the AI SDK that helps you quickly build powerful chatbot applications.
+
+Read Docs · Features · Model Providers · Deploy Your Own · Running locally
+
+
+Features
+Next.js App Router
+Advanced routing for seamless navigation and performance
+React Server Components (RSCs) and Server Actions for server-side rendering and increased performance
+AI SDK
+Unified API for generating text, structured objects, and tool calls with LLMs
+Hooks for building dynamic chat and generative user interfaces
+Supports OpenAI, Anthropic, Google, xAI, and other model providers via AI Gateway
+shadcn/ui
+Styling with Tailwind CSS
+Component primitives from Radix UI for accessibility and flexibility
+Data Persistence
+Neon Serverless Postgres for saving chat history and user data
+Vercel Blob for efficient file storage
+Auth.js
+Simple and secure authentication
+Model Providers
+This template uses the Vercel AI Gateway to access multiple AI models through a unified interface. Models are configured in lib/ai/models.ts with per-model provider routing. Included models: Mistral, Moonshot, DeepSeek, OpenAI, and xAI.
+
+AI Gateway Authentication
+For Vercel deployments: Authentication is handled automatically via OIDC tokens.
+
+For non-Vercel deployments: You need to provide an AI Gateway API key by setting the AI_GATEWAY_API_KEY environment variable in your .env.local file.
+
+With the AI SDK, you can also switch to direct LLM providers like OpenAI, Anthropic, Cohere, and many more with just a few lines of code.
+
+Deploy Your Own
+You can deploy your own version of Chatbot to Vercel with one click:
+
+Deploy with Vercel
+
+Running locally
+You will need to use the environment variables defined in .env.example to run Chatbot. It's recommended you use Vercel Environment Variables for this, but a .env file is all that is necessary.
+
+Note: You should not commit your .env file or it will expose secrets that will allow others to control access to your various AI and authentication provider accounts.
+
+Install Vercel CLI: npm i -g vercel
+Link local instance with Vercel and GitHub accounts (creates .vercel directory): vercel link
+Download your environment variables: vercel env pull
+pnpm install
+pnpm db:migrate # Setup database or apply latest database changes
+pnpm dev
+Your app template should now be running on localhost:3000.
+
+Releases
+No releases published
+Create a new release
+Packages
+No packages published
+Publish your first package
+Contributors
+No contributors
+Languages
+TypeScript
+98.3%
+Other
+1.7%
+Suggested workflows
+Based on your tech stack
+
+Datadog Synthetics logo
+Datadog Synthetics
+Run Datadog Synthetic tests within your GitHub Actions workflow
+By Datadog
+SLSA Generic generator logo
+SLSA Generic generator
+Generate SLSA3 provenance for your existing release workflows
+By Open Source Security Foundation (OpenSSF)
+Webpack logo
+Webpack
+Build a NodeJS project with npm and webpack.
+By GitHub Actions
+More workflows
+Footer
+© 2026 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Community
+Docs
+Contact
+Manage cookies
+Do not share my personal information
+ curl https://github.com/rickyplambert57/trixie292206021957
 <!DOCTYPE html>
 <html  lang="en"
   data-color-mode="auto" data-light-theme="light" data-dark-theme="dark"
